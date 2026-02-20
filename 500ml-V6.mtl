@@ -1,0 +1,40 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl cream_low_gloss_plastic
+Kd 0.8784314 0.7098039 0.2431373
+Ks 1 1 1
+pr 0.65
+pm 0
+d 1
+illum 2
+Ns 1.233766
+
+newmtl cream_low_gloss_plastic
+Kd 0.8784314 0.7098039 0.2431373
+Ks 1 1 1
+pr 0.65
+pm 0
+d 1
+illum 2
+Ns 1.233766
+
+newmtl cream_low_gloss_plastic
+Kd 0.8784314 0.7098039 0.2431373
+Ks 1 1 1
+pr 0.65
+pm 0
+d 1
+illum 2
+Ns 1.233766
+
+newmtl cream_low_gloss_plastic
+Kd 0.8784314 0.7098039 0.2431373
+Ks 1 1 1
+pr 0.65
+pm 0
+d 1
+illum 2
+Ns 1.233766
